@@ -1,0 +1,1 @@
+# minggu-1-writing1
