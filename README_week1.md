@@ -221,8 +221,15 @@ CSS Syntax adalah syntax yang digunakan untuk menunjuk atau memilih HTML element
    **h1** merupakan selector yang nantinya akan mengalami perubahan pada HTML.
    **backgruond-color** merupakan sebuah property. Property adalah atribut style yang ingin dirubah, misalnya color, background, margin, dll.
    **royalblue** merupakan value atau nilai dari suatau property.
-              
- ### 4. Flexbox
+		    
+		    
+		    
+ ### 4. Responsive Webdesign 
+Responsive web design atau desain web responsif adalah sebuah teknik atau metode bagi web designer untuk membuat suatu layout website yang dapat menyesuaikan diri sesuai dengan ukuran layar pengguna. Baik dari ukuran huruf, user interface, gambar dan tata letak akan menyesuaikan dengan lebar layar dan resolusi device yang digunakan. Selain dapat memengaruhi apa yang ditampilkan pada perangkat tertentu, ini juga untuk meningkatkan kenyamanan pengguna dalam mengunjungi suatu website.
+Pasalnya, dengan responsive web design, maka berbagai komposisi, tata letak, akan menyesuaikan dengan sendirinya.
+		    
+		    
+ ### 5. Flexbox
 flexbox merupakan mode layout yang ada di CSS3 dan digunakan untuk mengatur elemen di suatu halaman web. Flexbox ini akan mengatur ukuran dari elemen anaknya secara    otomatis, dan mampu beradaptasi dengan ukuran container-nya. Contohnya Properti align-content 
               
               
