@@ -528,22 +528,27 @@ Ternary operator merupakan short-syntax dari statement if … else.
     Looping adalah statement yang mengulang sebuah instruksi hingga kondisi terpenuhi atau jika kondisi stop/berhenti tercapai.
               
   - FOR LOOP 
+		    
     For Loop merupakan instruksi pengulangan yang dapat kita berikan pada program yang kita kembangkan. Gunakan FOR LOOP jika kita tahu seberapa banyak nilai pasti untuk pengulangannya
               
   - FOR LOOP PARAMETER
+		    
     Inisialisasi: Sebagai inisialisasi awal dari mana mulainya sebuah pengulangan. Kita memberikan nilai awal/default pada parameter ini.
     Condition: For loop akan terus berjalan selama kondisi ini terpenuhi. Selama kondisi bernilai TRUE. 
     Post-expression (Increment/Decrement): Iterasi statement yang digunakan untuk mengupdate variabel yang menjadi kontrol pada pengulangan.
 
   - WHILE LOOP 
+		    
     While Loop akan menjalankan instruksi pengulangan kondisi bernilai TRUE. Gunakan WHILE LOOP jika kita tidak mengetahui jumlah pasti pengulangan.
               
   - Nested Loop
+		    
     Jika kita membuat looping didalam looping. Maka ini dinamakan Nested Loop.
     Looping pertama dianalogikan sebagai baris.
     Looping kedua dianalogikan sebagai kolom.
               
   - DO WHILE
+		    
     Perulangan do/while akan melakukan perulangan sebanyak 1 kali terlebih dahulu, lalu mengecek kondisi yang ada di dalam kurung while .
        
               
