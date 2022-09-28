@@ -22,7 +22,7 @@ Terminal merupakan aplikasi atau tempat yang biasa digunakan untuk mengakses CLI
 
 ### 4. File System Structure 
 
-File system struktur merupakan struktur penyimpanan yang mengatur bagaimana sebuah file disimpan kedalam sistem. Pada Sistem Operasi Windows struktur file biasanya akan disimpan menggunakan struktur yang berbentuk mirip dengan sebuah pohon seperti gambar dibawah.
+File system struktur merupakan struktur penyimpanan yang mengatur bagaimana sebuah file disimpan kedalam sistem. Pada Sistem Operasi Windows struktur file biasanya akan disimpan menggunakan struktur yang berbentuk mirip dengan sebuah pohon.
 
 
 ### 5. Command 
