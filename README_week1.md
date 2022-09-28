@@ -135,7 +135,7 @@ Tag adalah sebuah penanda awalan dan akhiran dari sebuah elemen di HTML. Tag dib
 Semantic HTML adalah HTML penggunaan markup HTML untuk memperkuat semantik, atau makna, dari informasi di halaman web dan aplikasi web daripada hanya untuk mendefinisikan presentasi atau tampilannya. HTML semantik diproses oleh browser web tradisional serta oleh banyak agen pengguna lainnya. Contoh elemen semantik:
 
 
-          <form>, <table>, dan <article> - Mendefinisikan isinya dengan jelas.
+          <form>, <table>, <footer> dan <article> - Mendefinisikan isinya dengan jelas.
           
           
 ### 4. Deploy HTML
