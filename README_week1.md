@@ -321,17 +321,16 @@ Pseudocode atau kode semu dapat diartikan sebagai deskripsi dari algoritma pemro
                                     
  
  - Conditional
-   Conditional digunakan saat dibutuhkan percabangan kasus. Komputer akan melakukan suatu tindakan jika suatu kondisi terpenuhi. 
+ Conditional digunakan saat dibutuhkan percabangan kasus. Komputer akan melakukan suatu tindakan jika suatu kondisi terpenuhi. 
 
    Jika hari ini tidak hujan, maka Bob pergi ke pasar, jika tidak maka Bob dirumah aja.
    Jika tidak terpenuhi, maka tidak akan dijalankan.
                                     
  - Looping 
-   Komputer dapat melakukan sebuah proses yang sama berulang-ulang.
-   Jika membutuhkan perulangan dalam kasus tertentu, kita bisa menggunakan Looping.
+ Komputer dapat melakukan sebuah proses yang sama berulang-ulang. Jika membutuhkan perulangan dalam kasus tertentu, kita bisa menggunakan Looping.
                                     
  - Recursive
-   Recursive adalah pola pikir dalam algoritma yang memanggil method/function didalam sebuah function.    
+ Recursive adalah pola pikir dalam algoritma yang memanggil method/function didalam sebuah function.    
                                     
  
 JAVASCRIPT                                    
@@ -434,7 +433,7 @@ Operator aritmatika merupakan operator untuk melakukan operasi aritmatika sepert
               
 ### 5. Control Flow (conditional dan looping)      
   #### Conditional   
-    Conditional merupakan statement percabangan yang menggambarkan suatu kondisi. Conditional statement akan mengecek kondisi spesifik dan menjalankan perintah berdasarkan kondisi tersebut Yang dicek adalah apakah kondisi tersebut TRUE (benar). Jika TRUE maka code didalam kondisi tersebut dijalankan.
+Conditional merupakan statement percabangan yang menggambarkan suatu kondisi. Conditional statement akan mengecek kondisi spesifik dan menjalankan perintah berdasarkan kondisi tersebut Yang dicek adalah apakah kondisi tersebut TRUE (benar). Jika TRUE maka code didalam kondisi tersebut dijalankan.
 Contoh Conditional dalam kehidupan :
 Jika cuaca cerah hari ini, maka kita akan pergi keluar
 Jika alarm berbunyi, maka kita akan bangun dari tidur
